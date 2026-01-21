@@ -1,10 +1,11 @@
-package com.example.cupcake.data
+package com.example.cupcake.ui
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import com.example.cupcake.R
+import com.example.cupcake.data.OrderUiState
 
 @Composable
 fun OrderSummaryScreen(
